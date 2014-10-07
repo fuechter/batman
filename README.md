@@ -1,5 +1,9 @@
 # Batman Logo CSS3
-An API to import fragmented files within other.
+Only batman logo in CSS3.
+
+## Inspiration
+http://tangledindesign.com/demos/css3-logos/dark-knight/
+http://codepen.io/ewe1991/pen/frEum
 
 ## Contributing
 
